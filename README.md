@@ -1,9 +1,5 @@
 <h1 align="center">Periodic Table with CSS</h1>
 
-<a href="https://codepen.io/evavic44/pen/JjNNXYv"><img src="https://img.shields.io/twitter/url?color=black&label=Codepen&logo=Codepen&logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2Fevavic44"></a>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/909542f0-0414-499d-ace9-5821573c280e/deploy-status)](https://app.netlify.com/sites/periodic-table-ui/deploys)
-
 ![periodic-table](https://user-images.githubusercontent.com/62628408/125967400-d7679ed5-6567-4861-b342-cdf413b5804e.PNG)
 
 
